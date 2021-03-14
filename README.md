@@ -1,4 +1,4 @@
-# NetTantra_Project
+# React, Node.JS, Express Web Project
 Simple React Login app with a dashboard using React routers, and nodeJS, ExpressJS, bootstrap. Validation using JSON object
 
 Sign in form :
